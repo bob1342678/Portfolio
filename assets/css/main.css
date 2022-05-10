@@ -3178,6 +3178,9 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 			}
+			.features article .pic{
+				height: 30%;
+			}
 
 		/* Header */
 
