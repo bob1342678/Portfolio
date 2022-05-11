@@ -2676,7 +2676,7 @@ input, select, textarea {
 		}
 
 			.features article .image img,
-			.features article .image #pos {
+			.features article .image .vid{
 				display: block;
 				width: 100%;
 			}
@@ -3169,7 +3169,7 @@ input, select, textarea {
 		/* Features */
 
 			.features article .image,
-			.features article #pos {
+			.features article .image .vid {
 				display: block;
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
@@ -3184,7 +3184,7 @@ input, select, textarea {
 				height: 30%;
 			}
 
-			.features article #pos{
+			.features article .image .vid {
 				width: 100%;
 			}
 
