@@ -3,7 +3,7 @@ This is my professional portfolio website.  I display my recent freelancing work
 
 **Link to project:** https://ryandabrusco.netlify.app/
 
-![GIF of Portfolio Website](https://ibb.co/L6ztsQ5)
+![GIF of Portfolio Website](https://i.ibb.co/rMG6Xbs/ezgif-com-gif-maker-1.gif)
 
 ## How It's Made:
 
