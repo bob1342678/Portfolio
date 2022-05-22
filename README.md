@@ -19,11 +19,3 @@ Switched from thumbnails of my websites to gifs, but the files were large, so I 
 
 I learned that file size really matters a lot for a website, and making sure it is lightweight and can load quickly while still being able to have the content that will make the site more interesting.  
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
